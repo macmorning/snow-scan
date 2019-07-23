@@ -1,6 +1,6 @@
 # snow-scan
 
-This is a simple nodejs script to demonstrate how one could scan servicenow instances and try standard login/password combinations to import malevolent code to import data or code, add extension points, make a botnet, run cryptomining code, get mid servers addresses, make them execute arbitraty code, ...
+This is a simple nodejs script to demonstrate how one could scan servicenow instances and try standard login/password combinations to import malevolent code.
 
 >&#9888; This code is for educational purpose only, to show how easy an attacker could take control of a poorly secured instance.
 
