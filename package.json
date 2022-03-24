@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "btoa": "^1.2.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "progress": "^2.0.3",
     "xml2js": "^0.4.19",
     "yargs": "^13.2.4"
